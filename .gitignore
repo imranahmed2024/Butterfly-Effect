@@ -1,0 +1,29 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+.next/
+out/
+
+# Environment variables
+.env.local
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+dist/
+build/
+coverage/
+.nyc_output/
+```
